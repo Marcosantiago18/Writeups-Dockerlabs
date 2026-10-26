@@ -1,7 +1,7 @@
 <h1 align="center">🏍️ TRON — Writeup</h1>
 
 <p align="center">
-  <img src="img/tron.jpg" alt="TRON - DockerLabs" width="520">
+  <img src="img/tron.png" alt="TRON - DockerLabs" width="520">
 </p>
 
 <p align="center">
